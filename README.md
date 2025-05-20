@@ -6,7 +6,7 @@ Desenvolver uma aplicação completa de cadastro de usuários e endereços, com 
 ## BACK-END
 
 ### Linguagens e Tecnologias
-- Java 17
+- Java 21
 - Spring Boot 3.3.x
 - Spring Security
 - Spring Data JPA
