@@ -1,4 +1,4 @@
-# DOCUMENTAÇÃO DO SISTEMA FULLSTACK JAVA + React + Vite
+# DOCUMENTAÇÃO DO SISTEMA VIA CEP BACK-END JAVA + React + Vite
 
 ## OBJETIVO
 Desenvolver uma aplicação completa de cadastro de usuários e endereços, com autenticação baseada em JWT, controle de acesso com roles, consumo de API externa ViaCEP e integração com um front-end Angular.
